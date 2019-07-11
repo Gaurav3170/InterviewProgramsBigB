@@ -1,0 +1,124 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueueUsingStacks",
+            "request": "launch",
+            "mainClass": "QueueUsingStacks"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - validateParanthesis",
+            "request": "launch",
+            "mainClass": "validateParanthesis"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DepthFirstSearch",
+            "request": "launch",
+            "mainClass": "DepthFirstSearch"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - intersectionBetweenArrays",
+            "request": "launch",
+            "mainClass": "intersectionBetweenArrays"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - longestConsecutiveElements",
+            "request": "launch",
+            "mainClass": "longestConsecutiveElements"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - nQueens",
+            "request": "launch",
+            "mainClass": "nQueens"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - overlappingRectangles",
+            "request": "launch",
+            "mainClass": "overlappingRectangles"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pathSum",
+            "request": "launch",
+            "mainClass": "pathSum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - closestPairs",
+            "request": "launch",
+            "mainClass": "closestPairs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RecursiveStaircase",
+            "request": "launch",
+            "mainClass": "RecursiveStaircase"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaximizeArraySum",
+            "request": "launch",
+            "mainClass": "MaximizeArraySum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaximizeArraysum",
+            "request": "launch",
+            "mainClass": "MaximizeArraysum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PriorityQueueExample",
+            "request": "launch",
+            "mainClass": "PriorityQueueExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example",
+            "request": "launch",
+            "mainClass": "Example"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PriorityQueue",
+            "request": "launch",
+            "mainClass": "PriorityQueue"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinHeap",
+            "request": "launch",
+            "mainClass": "MinHeap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - convertBSTtoAVL",
+            "request": "launch",
+            "mainClass": "convertBSTtoAVL"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxWidthUsingQueue",
+            "request": "launch",
+            "mainClass": "maxWidthUsingQueue"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - verticalSum",
+            "request": "launch",
+            "mainClass": "verticalSum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
