@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - treeTraversalsTwo",
+            "request": "launch",
+            "mainClass": "treeTraversalsTwo",
+            "projectName": "Interview Programs_e1f0f705"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - matrixChainMultiplication",
+            "request": "launch",
+            "mainClass": "matrixChainMultiplication",
+            "projectName": "Interview Programs_e1f0f705"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - QueueUsingStacks",
             "request": "launch",
             "mainClass": "QueueUsingStacks"

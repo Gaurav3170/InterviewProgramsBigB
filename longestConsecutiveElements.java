@@ -12,7 +12,7 @@ class longestConsecutiveElements{
         sc.close();
         
     }
-
+    
     public static int longestSequence(int arr[]){
         int longest=0;
         HashSet<Integer> hSet = new HashSet<>();
